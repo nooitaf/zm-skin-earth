@@ -1,14 +1,17 @@
 zm-skin-earth
 =============
-Custom Dark Skin for ZoneMinder http://zoneminder.com  
-> totally alpha  
+Custom Dark (alpha) Skin for ZoneMinder http://zoneminder.com based of the default __Classic__ Skin.  
 
-Based of the default __Classic__ Skin.  
+####Preview
 ![earth skin preview](https://raw.githubusercontent.com/nooitaf/zm-skin-earth/master/screenshot.jpg)
 
-###Installation
+####Installation
+1.
 ````bash
 cd /usr/share/zoneminder/skins
 git clone http://github.com/nooitaf/zm-skin-earth.git
 ````
-ZoneMinder > Options > Display > Choose Skin (zm-skin-earth)
+2.
+````text
+ZoneMinder Panel > Options > Display > Choose Skin (zm-skin-earth)
+````
