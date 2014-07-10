@@ -1,6 +1,8 @@
 zm-skin-earth
 =============
-Custom Dark (alpha) Skin for ZoneMinder http://zoneminder.com based of the default __Classic__ Skin.  
+Custom Dark (alpha) Skin for ZoneMinder http://zoneminder.com  
+Based of the default __Classic__ Skin of v1.26.5  
+Only CSS has been changed.
 
 ####Preview
 ![earth skin preview](https://raw.githubusercontent.com/nooitaf/zm-skin-earth/master/screenshot.jpg)
