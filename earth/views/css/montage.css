@@ -1,18 +1,9 @@
 #header {
     width: 99%;
-
-}
-body {
- color:gray;
- background:black;
 }
 
 #layout {
     margin-right: 10px;
-}
-select {
- background:black;
- border:1px solid #333;
 }
 
 #content {
