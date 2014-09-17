@@ -15,4 +15,8 @@ git clone http://github.com/nooitaf/zm-skin-earth.git
 
 # In the browser:
 ZoneMinder Panel > Options > Display > Choose Skin (zm-skin-earth)
+
+# Set as default skin on startup
+# add to /etc/zm/zm.conf
+ZM_SKIN=/usr/share/zoneminder/skins/zm-skin-earth
 ````
